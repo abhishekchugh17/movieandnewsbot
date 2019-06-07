@@ -142,7 +142,6 @@ tornado==5.1
 traitlets==4.3.2
 twilio==6.27.1
 typed-ast==1.3.5
-ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.3
@@ -152,10 +151,4 @@ wadllib==1.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.48.0
-Werkzeug==0.15.4
-widgetsnbextension==3.3.1
-wikipedia==1.4.0
-wrapt==1.11.1
-xkit==0.0.0
-youtube-dl==2017.11.15
-zope.interface==4.5.0
+
