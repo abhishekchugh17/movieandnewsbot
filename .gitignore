@@ -1,2 +1,3 @@
 /movieenv
 moviekey.json
+*.pyc
