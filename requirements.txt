@@ -97,7 +97,7 @@ pycairo==1.16.2
 pycrypto==2.6.1
 pycups==1.9.73
 pygame==1.9.4
-Pygments==2.2.0
+Pygments==2.2.0 		
 PyJWT==1.7.1
 pylint==2.3.1
 pymacaroons==0.13.0
@@ -107,7 +107,6 @@ pyparsing==2.2.0
 pyRFC3339==1.0
 pyserial==3.4
 PySocks==1.7.0
-python-apt==1.6.4
 python-dateutil==2.7.3
 python-debian==0.1.32
 pyttsx3==2.7
